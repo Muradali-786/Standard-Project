@@ -1,0 +1,132 @@
+{
+  "project_info": {
+    "project_number": "962502297218",
+    "project_id": "easysoft-a4d6e",
+    "storage_bucket": "easysoft-a4d6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962502297218:android:f433b550771fa95c01569b",
+        "android_client_info": {
+          "package_name": "com.easysoftapp.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962502297218-1nbesvpcc77a88pesc5e6n93bbfdb2v3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easysoftapp.com",
+            "certificate_hash": "ca0a90faa80a2b378632556af3f51eef96e70f7f"
+          }
+        },
+        {
+          "client_id": "962502297218-7sq81g896296mbfb2irl3d7fa24h13el.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easysoftapp.com",
+            "certificate_hash": "523be3396418a91e0af108d46f3a519818bb1e6e"
+          }
+        },
+        {
+          "client_id": "962502297218-94i20osrhigr42c9km7a9vbj3oqjddvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easysoftapp.com",
+            "certificate_hash": "36bde1eca558895928bb3db973b697091dfdf7a4"
+          }
+        },
+        {
+          "client_id": "962502297218-c5rapmo9j8c95jjgsccl5udkssvo2l1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easysoftapp.com",
+            "certificate_hash": "013e07a242e7db049d83cfeb06a2282c77ad3392"
+          }
+        },
+        {
+          "client_id": "962502297218-fbnut6l899m309vv31kiohjs1stmudhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easysoftapp.com",
+            "certificate_hash": "fe78efc8c967e15c65da25e71bd24c112c2fb4f5"
+          }
+        },
+        {
+          "client_id": "962502297218-htf7i46urn9g9ufc6c7se68h86sqj7g4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easysoftapp.com",
+            "certificate_hash": "50cc12a4ad11ab8d1d025951f782b8dcc445703e"
+          }
+        },
+        {
+          "client_id": "962502297218-ik4ulm0o3k41hbr4ij7fq4ib1j6aq14o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easysoftapp.com",
+            "certificate_hash": "7426b78022133457d664a9062c514b72293648eb"
+          }
+        },
+        {
+          "client_id": "962502297218-kjl0g1ucfltnk2l8dhr3ui5inv6vm1dk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easysoftapp.com",
+            "certificate_hash": "ea49f205c56ec0e3ae501e211d384cd41acfd764"
+          }
+        },
+        {
+          "client_id": "962502297218-7nr7nqtj57flv096omk3k4h1im48ajl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2rI2KG8UwMj9Yy0L3sjzTuJAxphEnZEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962502297218-7nr7nqtj57flv096omk3k4h1im48ajl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962502297218:android:51868ebd654d300101569b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_sqllite_table_view"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962502297218-7nr7nqtj57flv096omk3k4h1im48ajl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2rI2KG8UwMj9Yy0L3sjzTuJAxphEnZEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962502297218-7nr7nqtj57flv096omk3k4h1im48ajl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
